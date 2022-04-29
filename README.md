@@ -15,5 +15,5 @@ npm install
 ```
 Last, test:
 ```bash
-npm run dev
+npm run start
 ```
