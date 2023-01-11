@@ -30,7 +30,15 @@
     "build": "webpack --config webpack.config.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  "author": "Nathan Lazo <nathanlazo@outlook.com>",
+  "license": "MIT",
+  "description": "React base for developers who want to fast develop with react or have problems creating react app.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NathanLazo/react-base.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NathanLazo/react-base/issues"
+  },
+  "homepage": "https://github.com/NathanLazo/react-base#readme"
 }
